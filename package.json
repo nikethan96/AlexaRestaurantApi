@@ -21,8 +21,8 @@
   },
   "devDependencies": {},
   "repository" :{ 
-	  "type" : "git", 
-	  "url" : "https://github.com/nikeSky/AlexaRrestaurantApi.git"
+	"type" : "git", 
+	"url" : "https://github.com/nikeSky/AlexaRrestaurantApi.git"
   },
   "keywords": [],
   "author": "Nikethan Selvanathan",
