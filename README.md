@@ -72,10 +72,12 @@ Author - Nikethan Selvanathan
 	}
 
 5) In the same Interaction Model add two new list.
+
 	LIST_OF_CONFIRM		yes | no
 	LIST_OF_DISHES		sweet corn soup | chicken pizza | chocolate lava cake
 
 6) In the same Interaction Model add Sample Utterances.
+
 	Welcome wakeup
 	Welcome wake up
 	AskforMenu tell me the menu
@@ -93,6 +95,7 @@ Author - Nikethan Selvanathan
 
 7) Go to Configuration and in it change the URL in the textbox below "North America". to the URL you got from the ngrok appended with "/digital/api/dialogs/alexa".
 	Eg - If the ngrok URL is https://ca3846ed.ngrok.io the new Appended URL will be https://ca3846ed.ngrok.io/digital/api/dialogs/alexa .
+	
 8) Now you can test it in Test navigation menu.
 
 
