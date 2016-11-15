@@ -1,0 +1,26 @@
+{
+  "name": "digital-api",
+  "version": "1.0.0",
+  "description": "Author - Nikethan Selvanathan",
+  "private": true,
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha test/api"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "alexa-app": "^2.3.4",
+    "body-parser": "^1.15.2",
+    "cfenv": "^1.0.3",
+    "express": "^4.14.0",
+    "node-rest-client": "^2.0.1",
+    "swagger-express-mw": "^0.7.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "Nikethan Selvanathan",
+  "license": "ISC"
+}
