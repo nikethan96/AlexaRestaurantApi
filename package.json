@@ -20,6 +20,10 @@
     "swagger-express-mw": "^0.7.0"
   },
   "devDependencies": {},
+  "repository" :{ 
+	  "type" : "git", 
+	  "url" : "https://github.com/nikeSky/AlexaRrestaurantApi.git"
+  },
   "keywords": [],
   "author": "Nikethan Selvanathan",
   "license": "ISC"
