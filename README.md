@@ -5,7 +5,7 @@ Author - Nikethan Selvanathan
 
 1) Open command prompt in windows or terminal in linux.
 2) Run "npm -v" the reture should be 3.10.8 or higher. In case of lower npm run "npm install -g npm".
-3) cd into project folder(digital-api).
+3) cd into project folder(AlexaRrestaurantApi).
 4) Run "npm install". (To get all the node modules).
 5) Run "npm start". (to start the server).
 
@@ -104,10 +104,10 @@ Author - Nikethan Selvanathan
 
 1) To change the URL to make the order
 
-	* Go to AlexaController.js in api/controllers folder in the digital-api project.
+	* Go to AlexaController.js in api/controllers folder in the AlexaRrestaurantApi project.
 	* Go to line 258 and change the URL in it.
 	
 2) To change the URL to get the total
 
-	* Go to getTotal.js in api/controllers folder in the digital-api project.
+	* Go to getTotal.js in api/controllers folder in the AlexaRrestaurantApi project.
 	* Go to line 14 and change the URL in it.
