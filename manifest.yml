@@ -1,8 +1,0 @@
-applications:
-- path: .
-  memory: 2048M
-  instances: 1
-  domain: mybluemix.net
-  name: digital-api
-  host: digital-api
-  disk_quota: 2048M
