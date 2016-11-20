@@ -1,13 +1,22 @@
 Author - Nikethan Selvanathan
 
 
+
+^^^^^^^^^^^^^^^  ABOUT AlexaRestaurentApi  ^^^^^^^^^^^^^^^^^
+
+This is a Node Alexa application to make alexa act as a virtual restaurent waiter. 
+
 ^^^^^^^^^^^^^^^  TO START THE ALEXA NODE SERVER  ^^^^^^^^^^^^^^^^^
 
 1) Open command prompt in windows or terminal in linux.
 2) Run "npm -v" the reture should be 3.10.8 or higher. In case of lower npm run "npm install -g npm".
 3) cd into project folder(AlexaRrestaurantApi).
 4) Run "npm install". (To get all the node modules).
-5) Run "npm start". (to start the server).
+5) Run "npm start". (to start the server).(The application will be started in port 6001)
+
+** The Swagger Json Schema will be available in URL.(localhost:6001/api/swagger) **
+
+** For this explanation I'm using ngrok(https://ngrok.com/) to expose the sever **
 
 
 
